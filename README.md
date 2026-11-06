@@ -35,6 +35,7 @@
 ├── README.md                  本文件：仓库总览、实验跳转与更新说明
 ├── Lab1/                      实验一：词法分析程序
 │   ├── README.md              实验说明（题目、要求、两份实现的跳转）
+│   ├── assets/                状态机（DFA）图片
 │   ├── cpp/                   C++17 实现，README.md 为详细说明
 │   └── python/                Python 参考实现，README.md 为详细说明
 ├── Lab2/                      实验二：语法分析程序（LL(1)）
